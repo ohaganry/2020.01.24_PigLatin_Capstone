@@ -1,0 +1,11 @@
+/home/master/Documents/bootcamp/pigLatin/PigLatin_MethodRebuild/bin/Debug/netcoreapp2.1/PigLatin_MethodRebuild.deps.json
+/home/master/Documents/bootcamp/pigLatin/PigLatin_MethodRebuild/bin/Debug/netcoreapp2.1/PigLatin_MethodRebuild.runtimeconfig.json
+/home/master/Documents/bootcamp/pigLatin/PigLatin_MethodRebuild/bin/Debug/netcoreapp2.1/PigLatin_MethodRebuild.runtimeconfig.dev.json
+/home/master/Documents/bootcamp/pigLatin/PigLatin_MethodRebuild/bin/Debug/netcoreapp2.1/PigLatin_MethodRebuild.dll
+/home/master/Documents/bootcamp/pigLatin/PigLatin_MethodRebuild/bin/Debug/netcoreapp2.1/PigLatin_MethodRebuild.pdb
+/home/master/Documents/bootcamp/pigLatin/PigLatin_MethodRebuild/obj/Debug/netcoreapp2.1/PigLatin_MethodRebuild.csprojAssemblyReference.cache
+/home/master/Documents/bootcamp/pigLatin/PigLatin_MethodRebuild/obj/Debug/netcoreapp2.1/PigLatin_MethodRebuild.csproj.CoreCompileInputs.cache
+/home/master/Documents/bootcamp/pigLatin/PigLatin_MethodRebuild/obj/Debug/netcoreapp2.1/PigLatin_MethodRebuild.AssemblyInfoInputs.cache
+/home/master/Documents/bootcamp/pigLatin/PigLatin_MethodRebuild/obj/Debug/netcoreapp2.1/PigLatin_MethodRebuild.AssemblyInfo.cs
+/home/master/Documents/bootcamp/pigLatin/PigLatin_MethodRebuild/obj/Debug/netcoreapp2.1/PigLatin_MethodRebuild.dll
+/home/master/Documents/bootcamp/pigLatin/PigLatin_MethodRebuild/obj/Debug/netcoreapp2.1/PigLatin_MethodRebuild.pdb
